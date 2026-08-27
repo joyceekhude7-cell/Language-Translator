@@ -20,5 +20,5 @@ This is a simple Language Translator web application built as part of my interns
 2. Open `index.html` in any web browser
 
 ## Author
-Yashashree Ahirekar. 
+Joycee Khude . 
 CodeAlpha Intern
